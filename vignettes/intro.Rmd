@@ -18,6 +18,6 @@ knitr::opts_chunk$set(
 # Usage
 ```{r}
 library(pRocessing)
-make_things("R or Python, that's the question.")
+make_things("R or Python? That's not the question.")
 
 ```
