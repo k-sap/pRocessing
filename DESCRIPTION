@@ -1,0 +1,17 @@
+Package: pRocessing
+Title: The pRocessing package
+Version: 0.0.0.1
+Authors@R: 
+    person(given = "Karol",
+           family = "Saputa",
+           role = c("aut", "cre"),
+           email = "first.last@example.com")
+Description: It gives R and the user possibility to contemplate and pRocess the input or a thought given. 
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
